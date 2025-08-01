@@ -14,7 +14,7 @@ Always learning, always experimenting — I love to turn concepts into interacti
 
    </td>
    <td valign="top" align="center" width="50%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+      <img src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" width="300" alt="Coding GIF" />
    </td>
   </tr>
 </table>
