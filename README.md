@@ -1,58 +1,79 @@
-<h1 align="center">Hi 👋, I’m Shifat Ali</h1>
+<h1 align="center">👋 Hello! I'm <span style="color:#00ADB5">Shifat Ali</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=I'm+a+Web+Developer;I+love+building+interactive+UIs;Learning+React%2C+DSA%2C+and+AI+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=440&lines=Web+Developer+%7C+Problem+Solver+%7C+React+Enthusiast;Lifelong+Learner+%26+Builder" alt="Typing Animation" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🧠 Who Am I?
 
-Hi! I'm a passionate full-stack developer from India. I build real-world web applications using **JavaScript, React, Tailwind CSS**, and more. Currently, I’m building a full **WebOS in the browser** with apps like Terminal and File Explorer.  
-I'm always learning — whether it’s mastering DSA, exploring AI in JavaScript, or building cool UI/UX experiences. I mix my love for logic-building with consistency and discipline — both in coding and fitness!
+I'm a **Full Stack Developer** focused on building responsive, user-friendly web applications.  
+Currently, I'm working on a **WebOS (Operating System in the Browser)**, developing custom apps like terminals, file explorers, and more — all from scratch using JavaScript, React, and LocalStorage.
+
+I combine **logic-building**, **clean UI**, and a habit of deep learning to create powerful digital tools.  
+I love exploring advanced topics like **DSA**, **AI integrations**, and writing efficient, scalable code.
 
 ---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/LocalStorage-%23FFA500?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 💡 A Glimpse Into My Work
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td width="55%">
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/LocalStorage-FFA500?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
+- 🔧 Building **WebOS** in the browser  
+- 🤖 Developing **Toxic Comment Detector** using AI logic in JS  
+- 🌐 Created a clean, responsive **React Portfolio**  
+- 🗃️ Designing file explorer apps with **drag-drop, thumbnails, and context menus**
 
 </td>
-<td align="center" width="40%">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+<td align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" />
 </td>
 </tr>
 </table>
 
 ---
 
-### 📊 GitHub Contributions
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shifatalix&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShifatAli&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShifatAli&theme=radical" width="48%" />
 </p>
 
 ---
 
 ### 🔗 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/shifatalix" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" />
+  <a href="https://myportfolio-shifat.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
+
+---
+
+### 🧩 Fun Bits
+
+- 💪 I treat coding like lifting — **daily reps build real strength**
+- 🔬 I break things on purpose — to learn how to fix them
+- 🔄 I rebuild projects just to do it better the second time
