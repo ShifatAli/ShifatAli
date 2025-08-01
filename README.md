@@ -43,7 +43,7 @@ I love exploring advanced topics like **DSA**, **AI integrations**, and writing 
 
 </td>
 <td align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" />
+  <img src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" width="240" />
 </td>
 </tr>
 </table>
