@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm <span style="color:#00ADB5">Shifat Ali</span></h1>
+ <h1 align="center"> Hello! I'm <span style="color:#00ADB5">Shifat Ali</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=440&lines=Web+Developer+%7C+Problem+Solver+%7C+React+Enthusiast;Lifelong+Learner+%26+Builder" alt="Typing Animation" />
