@@ -1,4 +1,4 @@
- <h1 align="center"> Hello! I'm <span style="color:#00ADB5">Shifat Ali</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#00ADB5">Shifat Ali</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=440&lines=Web+Developer+%7C+Problem+Solver+%7C+React+Enthusiast;Lifelong+Learner+%26+Builder" alt="Typing Animation" />
@@ -6,17 +6,14 @@
 
 ---
 
-### 🧠 Who Am I?
+### 🧠 About Me
 
-I'm a **Full Stack Developer** focused on building responsive, user-friendly web applications.  
-Currently, I'm working on a **WebOS (Operating System in the Browser)**, developing custom apps like terminals, file explorers, and more — all from scratch using JavaScript, React, and LocalStorage.
-
-I combine **logic-building**, **clean UI**, and a habit of deep learning to create powerful digital tools.  
-I love exploring advanced topics like **DSA**, **AI integrations**, and writing efficient, scalable code.
+I'm a self-taught full stack developer who loves building web apps with JavaScript, React, and Tailwind CSS.  
+I enjoy solving problems, learning new things, and building projects like WebOS and intelligent browser apps.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -30,31 +27,29 @@ I love exploring advanced topics like **DSA**, **AI integrations**, and writing 
 
 ---
 
-### 💡 A Glimpse Into My Work
-
 <table>
 <tr>
 <td width="55%">
 
-- 🔧 Building **WebOS** in the browser  
-- 🤖 Developing **Toxic Comment Detector** using AI logic in JS  
-- 🌐 Created a clean, responsive **React Portfolio**  
-- 🗃️ Designing file explorer apps with **drag-drop, thumbnails, and context menus**
+### 🔧 Projects
+
+- 🖥️ Building **WebOS** – A desktop-like environment in the browser  
+- 🧠 **Toxic Comment Detector** – AI-powered in-browser tool  
+- 🎨 **React Portfolio Website** – Fully responsive, clean design
 
 </td>
 <td align="center">
-  <img src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" width="240" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" />
 </td>
 </tr>
 </table>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShifatAli&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShifatAli&theme=radical" width="48%" />
+  <img src="https://ghchart.rshah.org/ShifatAli" alt="Shifat Ali's GitHub chart" />
 </p>
 
 ---
@@ -69,11 +64,3 @@ I love exploring advanced topics like **DSA**, **AI integrations**, and writing 
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
-
----
-
-### 🧩 Fun Bits
-
-- 💪 I treat coding like lifting — **daily reps build real strength**
-- 🔬 I break things on purpose — to learn how to fix them
-- 🔄 I rebuild projects just to do it better the second time
