@@ -6,7 +6,7 @@
   <tr>
     <td valign="top" width="50%">
 
-###  About Me
+###  About Me :
 
 I'm a passionate developer who enjoys building web applications that feel smooth and solve real problems.  
 I focus on front-end development with a deep interest in crafting beautiful UI/UX designs.  
