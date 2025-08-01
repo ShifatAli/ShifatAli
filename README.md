@@ -1,20 +1,23 @@
-<h1 align="center">Hi 👋, I'm Shifat Ali</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=440&lines=I+am+a+Web+Developer;UI%2FUX+Enthusiast" alt="Typing Animation" />
-</p>
+<h1 align="center">Hi, I'm Shifat Ali </h1>
 
 ---
 
-### 🧠 About Me
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-Hey! I'm Shifat — a developer who genuinely enjoys learning, building, and improving every day.  
-I love turning ideas into interactive web applications and exploring how things work behind the scenes.  
-My focus is on front-end development using React and creating clean, user-friendly UI/UX.
+###  About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
-</p>
+I'm a passionate developer who enjoys building web applications that feel smooth and solve real problems.  
+I focus on front-end development with a deep interest in crafting beautiful UI/UX designs.  
+Always learning, always experimenting — I love to turn concepts into interactive products.
+
+   </td>
+   <td valign="top" align="center" width="50%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+   </td>
+  </tr>
+</table>
 
 ---
 
@@ -26,7 +29,6 @@ My focus is on front-end development using React and creating clean, user-friend
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/LocalStorage-FFA500?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -36,10 +38,10 @@ My focus is on front-end development using React and creating clean, user-friend
 
 | Project | Description |
 |--------|-------------|
-| **WebOS** | A desktop-like environment in the browser, with drag & drop, apps like Terminal and File Explorer. |
-| **Toxic Comment Detector** | An AI-powered real-time comment analyzer built using pure JavaScript. |
-| **React Portfolio Website** | A personal portfolio with smooth transitions and fully responsive layout. |
-| **File Explorer App** | Includes folder creation, drag & drop, thumbnails, and right-click context menu using JavaScript. |
+| **WebOS** | A desktop-like web interface with Terminal and File Explorer apps, using HTML, CSS, JS. |
+| **Toxic Comment Detector** | Filters toxic comments in real-time using vanilla JS and local logic. |
+| **React Portfolio** | Responsive personal portfolio with smooth animations and modern UI. |
+| **File Explorer App** | Simulated OS file explorer with rename, delete, thumbnails, drag & drop. |
 
 ---
 
