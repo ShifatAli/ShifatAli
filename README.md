@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shifat Ali</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Passionate+about+UI%2FUX+%26+Frontend;Love+building+useful+projects" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=440&lines=I+am+a+Web+Developer;UI%2FUX+Enthusiast" alt="Typing Animation" />
 </p>
 
 ---
@@ -10,9 +10,11 @@
 
 Hey! I'm Shifat — a developer who genuinely enjoys learning, building, and improving every day.  
 I love turning ideas into interactive web applications and exploring how things work behind the scenes.  
-My current focus is on front-end development using React, but I also enjoy solving logic problems and working on personal tools that make life a bit easier.
+My focus is on front-end development using React and creating clean, user-friendly UI/UX.
 
-I'm always exploring better ways to write clean code, design better user experiences, and build things that are fun and functional.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+</p>
 
 ---
 
@@ -36,8 +38,8 @@ I'm always exploring better ways to write clean code, design better user experie
 |--------|-------------|
 | **WebOS** | A desktop-like environment in the browser, with drag & drop, apps like Terminal and File Explorer. |
 | **Toxic Comment Detector** | An AI-powered real-time comment analyzer built using pure JavaScript. |
-| **React Portfolio Website** | A personal portfolio with dark/light modes and beautiful transitions. |
-| **File Explorer App** | Built from scratch using JavaScript, includes folder creation, drag & drop, right-click options, and thumbnails. |
+| **React Portfolio Website** | A personal portfolio with smooth transitions and fully responsive layout. |
+| **File Explorer App** | Includes folder creation, drag & drop, thumbnails, and right-click context menu using JavaScript. |
 
 ---
 
