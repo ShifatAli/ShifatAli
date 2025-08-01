@@ -13,6 +13,22 @@ I enjoy solving problems, learning new things, and building projects like WebOS 
 
 ---
 
+### 🌗 Dark / Light Mode Preview
+
+<p align="center">
+  <img src="https://github.com/ShifatAli/ShifatAli/assets/your-light-preview-id" width="350" alt="Light Mode Preview" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ShifatAli/ShifatAli/assets/your-dark-preview-id" width="350" alt="Dark Mode Preview" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Click%20Toggle-☀️%20%2F%20🌙-black?style=for-the-badge&logo=github" />
+</p>
+
+> 💡 Tip: My projects support both light and dark UI for better accessibility & style!
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
