@@ -56,7 +56,7 @@ Always learning, always experimenting — I love to turn concepts into interacti
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shifatalix" target="_blank">
+  <a href="https://www.linkedin.com/in/shifatali/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://portfolio-shifat.vercel.app/" target="_blank">
