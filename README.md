@@ -59,7 +59,7 @@ Always learning, always experimenting — I love to turn concepts into interacti
   <a href="https://www.linkedin.com/in/shifatalix" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://myportfolio-shifat.vercel.app/" target="_blank">
+  <a href="https://portfolio-shifat.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
